@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="57fc576d-7e99-40a5-9d21-c1247a376a79" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.dockerignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env.homework" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.github/workflows/main-workflow.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Django_base_project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/base/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/base/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/base/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/base/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/base/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/base/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/base/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/base/urls_root.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/base/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/static/favicon/favicon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/static/logo/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/static/styles/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/templates/_helpers/_base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/templates/_helpers/_header.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/templates/accounts/signup.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/templates/base/basic.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/templates/profile/profile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/templates/registration/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/templates/registration/password drop_finished.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/templates/registration/password_drop_complete.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/templates/registration/password_drop_confirm.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/templates/registration/password_drop_email.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/templates/registration/password_drop_form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/templates/registration/update.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/user/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/user/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/user/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/user/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/user/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/user/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/user/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/user/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/core/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker-compose.override.homework.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker/app/entrypoint.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker/app/start.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pre-commit-config.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/setup.cfg" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2dDfai1YtUvWIdADAWrnczjWXbs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "Django Server.Django_base_project.executor": "Run",
+    "Makefile Target.migrations.executor": "Run",
+    "RunOnceActivity.OpenDjangoStructureViewOnStart": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "django.template.preview.state": "SHOW_EDITOR",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/home/levesin/PycharmProjects/Django_base_project/apps/static/favicon",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editor.preferences.tabs",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/apps/static/favicon" />
+      <recent name="$PROJECT_DIR$/apps/static/logo" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/apps" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Django Server.Django_base_project">
+    <configuration name="migrations" type="MAKEFILE_TARGET_RUN_CONFIGURATION" factoryName="Makefile" temporary="true">
+      <makefile filename="$PROJECT_DIR$/Makefile" target="migrations" workingDirectory="" arguments="">
+        <envs />
+      </makefile>
+      <method v="2" />
+    </configuration>
+    <configuration name="Django_base_project" type="Python.DjangoServer" factoryName="Django server">
+      <module name="Django_base_project" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="localhost" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Makefile Target.migrations" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-d68999036c7f-b11f5e8da5ad-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.14475.56" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="57fc576d-7e99-40a5-9d21-c1247a376a79" name="Changes" comment="" />
+      <created>1709547635812</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709547635812</updated>
+      <workItem from="1709547656242" duration="9005000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
